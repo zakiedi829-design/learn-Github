@@ -1,1 +1,2 @@
 hai hari ini tanggal 30 okteober 2026 , ini pertama kalinya saya belajar github atau git jadi saya mencoba nya di file ini .-> ini adalah commit pertama 
+ini saya tambahkan kata" untuk mengetes  commit ke 2  ->comiit ke 2
