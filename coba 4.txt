@@ -1,1 +1,2 @@
-ini ssaya mencoba menggunakan git secara local
+ini  mencoba menggunakan git secara local
+ini saya ada tambahan kalimat "oke bro" dan menghapus kata "ssaya"
